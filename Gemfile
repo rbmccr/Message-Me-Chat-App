@@ -22,6 +22,10 @@ gem 'coffee-rails', '~> 4.2'
 gem 'turbolinks', '~> 5'
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
 gem 'jbuilder', '~> 2.5'
+# Authentication
+gem 'bcrypt'
+# Nicely organized console printout (e.g. rails console; Hirb.enable; User.all)
+gem 'hirb'
 
 gem 'semantic-ui-sass'
 gem 'jquery-rails'
